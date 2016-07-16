@@ -1,0 +1,10 @@
+diff a/index.php b/index.php	(rejected hunks)
+@@ -2,6 +2,8 @@
+ <?php echo info(); 
+ 
+ for($i=0; $i >= 10; $i++):
++
++
+ endfor;
+ 
+ echo $i;
