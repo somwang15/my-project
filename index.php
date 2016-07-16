@@ -1,1 +1,4 @@
-<?php echo info(); ?>
+<?php echo info(); 
+
+fadfas
+
