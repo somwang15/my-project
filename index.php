@@ -1,4 +1,4 @@
-<?php echo info(); 
+<?php 
 
 for($i=0; $i >= 10; $i++):
 
